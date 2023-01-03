@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CURD with steps","This will create new store","SUCCESS","2023-01-01T22:46:52.510Z[Europe/London]","0.0","0.15"
+"Store CURD with steps","Verify if the product was added to application","SUCCESS","2023-01-01T22:46:52.662Z[Europe/London]","0.0","0.07"
+"Store CURD with steps","This will update store","SUCCESS","2023-01-01T22:46:52.738Z[Europe/London]","0.0","0.13"
+"Store CURD with steps","This will delete product","SUCCESS","2023-01-01T22:46:52.875Z[Europe/London]","0.0","0.11"
